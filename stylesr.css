@@ -1,0 +1,21 @@
+header{
+    font-size: x-large;
+    text-align: center;
+    background-color: bisque;
+    border: 1cm;
+    padding: 2cm;
+    margin: 0cm;
+    border-width: 1cqmin;
+    border-style: dashed;
+}
+
+  
+section{
+    text-align: center;
+    font-size: larger;
+    font-style: oblique;
+    background-color: cadetblue;
+    border: 1cm;
+    margin: 1cm;
+    padding: 1cm;
+}
